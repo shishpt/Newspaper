@@ -8,7 +8,7 @@ Comments have been added to the index.html & style.css file.
 [Github project](https://github.com/shishpt/skoli-intro1)
 
 ##### Surge URL
-[Surge URL](where-are-you-psyduck.surge.sh/)
+[Surge URL](https://where-are-you-psyduck.surge.sh/)
 
 ##### Website Parameters
 ###### index.html
