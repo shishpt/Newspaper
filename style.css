@@ -125,6 +125,7 @@ p{
     box-sizing: border-box;
     padding: 10px 0 10px 0;
 }
+
 /*Story main is for the main artlie (middle) */
 .story-main .hl5{
     font-weight: 400;
@@ -156,7 +157,7 @@ p{
     width: 100%;
 }
 
-/*MEDIAQUERIES*/
+/*Responsive Design for tablets and phones*/
 @media only all and (max-width: 1300px) {
     .stamp{
         display: none;
