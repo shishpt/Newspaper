@@ -8,9 +8,10 @@ Comments have been added to the index.html & style.css file.
 [Github project](https://github.com/shishpt/skoli-intro1)
 
 ##### Surge URL
-[Surge URL](https://where-are-you-psyduck.surge.sh/)
+[Surge URL](https://come-home-psyduck.surge.sh/)
 
 ##### Website Parameters
+- Site is responsive for Dekstop, Tablet, and Mobile
 ###### index.html
 - Due to the site looking like a newspaper, the design did not utlilize the nav and footer feature.  
 - While the tags are included it has not been used.
