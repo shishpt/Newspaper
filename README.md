@@ -14,8 +14,8 @@ Comments have been added to the index.html & style.css file.
 ###### index.html
 - Due to the site looking like a newspaper, the design did not utlilize the nav and footer feature.  
 - While the tags are included it has not been used.
-
+- Semantic, Block and  HTML is in place
 ###### style.css
--The CSS has been created has the newspaper style
+-The CSS has been created with the newspaper style
 -There is a stamp effect
--The photo is taken in color (taken with an iphoneX) however a filter has been used to provide a newspaper effect.
+-The photo is taken in color (taken with an iphoneX) however a filter has been used to provide a newspaper effect utilizing CSS.
